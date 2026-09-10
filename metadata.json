@@ -1,0 +1,6 @@
+{
+  "name": "ULTRON V.4",
+  "description": "Local-first cinematic desktop AI assistant for RUDRANSH featuring Voice STT/TTS, Air Control webcam hand tracking, multi-mode HUD, and system automation.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
